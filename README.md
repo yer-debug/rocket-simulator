@@ -22,3 +22,7 @@ make -j
 ./starship_sim
 # or run tests
 ./starship_test
+
+# rocket-simulator
+Advanced C++ rocket simulation with trajectory modeling and AI-ready architecture
+>>>>>>> 7e3eec499c64a44424c1df34f13707836c7f4559
